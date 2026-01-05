@@ -6,7 +6,7 @@
   - [Speed Test Anomaly #3](#Speed-Test-Anomaly-#3)
   - [Speed Test Anomaly #4](#Speed-Test-Anomaly-#4)
   - [Birthday Trap](#Birthday-Trap)
--[Incident Response](#Incident-Response)
+- [Incident Response](#Incident-Response)
   - [Breadcrumbs #6](#Breadcrumbs-#6)
   - [Breadcrumbs #7](#Breadcrumbs-#7)
   - [Breadcrumbs #8](#Breadcrumbs-#8)
