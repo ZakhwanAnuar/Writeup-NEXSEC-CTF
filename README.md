@@ -1,4 +1,4 @@
-## 📑 Table of Contents
+# 📑 Table of Contents
 
 - [Malware Analysis](#malware-analysis)
   - [Speed Test Anomaly 1](#speed-test-anomaly-1)
@@ -25,29 +25,29 @@
   - [Classic 7](#classic-7)
   - [Security Incident](#security-incident)
 #
-## Malware Analysis
+# Malware Analysis
 
-### Speed Test Anomaly 1
-### Speed Test Anomaly 2
-### Speed Test Anomaly 3
-### Speed Test Anomaly 4
-### Birthday Trap
+## Speed Test Anomaly 1
+## Speed Test Anomaly 2
+## Speed Test Anomaly 3
+## Speed Test Anomaly 4
+## Birthday Trap
 #
-## Incident Response
+# Incident Response
 
-### Breadcrumbs 6
-### Breadcrumbs 7
-### Breadcrumbs 8
-### Breadcrumbs 9
-### Breadcrumbs 10
-### Breadcrumbs 11
-### Breadcrumbs 12
-### Breadcrumbs 13
-### Classic 1
-### Classic 2
-### Classic 3
-### Classic 4
-### Classic 5
-### Classic 6
-### Classic 7
-### Security Incident
+## Breadcrumbs 6
+## Breadcrumbs 7
+## Breadcrumbs 8
+## Breadcrumbs 9
+## Breadcrumbs 10
+## Breadcrumbs 11
+## Breadcrumbs 12
+## Breadcrumbs 13
+## Classic 1
+## Classic 2
+## Classic 3
+## Classic 4
+## Classic 5
+## Classic 6
+## Classic 7
+## Security Incident
